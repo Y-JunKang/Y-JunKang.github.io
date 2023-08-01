@@ -221,20 +221,26 @@ theme_config:
     - tag
     - recent_posts
     - recent_comments
-    # - links
+    - links
 
   info:
     avatar: https://avatars.githubusercontent.com/u/39218059?v=4
     discription: Try to be a indie hacker
     outlinkitem:
+#    - name: twitter
+#      outlink: https://twitter.com/username
+#      message: Twitter
       - name: envelope
         outlink: mailto:junkang.yjk@gmail.com
         message: Email
       - name: github
         outlink: https://github.com/Y-JunKang
         message: Github
+#    - name: rss
+#      outlink: /atom.xml
+#      message: RSS
 
-  # links:
+  links:
     # - title: site-name1
     #   url: http://www.example1.com/
     #   src: https://www.example1.com/favicon.ico
