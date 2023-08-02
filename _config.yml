@@ -279,3 +279,8 @@ deploy:
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
 
+
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
